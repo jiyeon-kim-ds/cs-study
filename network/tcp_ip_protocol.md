@@ -15,9 +15,7 @@
     - 실질적으로 데이터를 전달하는 계층
 
 ## 참고
-[Transmission Control Protocol (TCP)
-](https://www.sdxcentral.com/resources/glossary/transmission-control-protocol-tcp/)
-[Internet Protocol (IP)](https://www.sdxcentral.com/resources/glossary/internet-protocol-ip/)
-[Transmission Control Protocol (TCP)
-](https://www.techtarget.com/searchnetworking/definition/TCP)
-[[Network] TCP/IP 와 TCP/IP 4계층이란?](https://wooono.tistory.com/507)
+- [Transmission Control Protocol (TCP)](https://www.sdxcentral.com/resources/glossary/transmission-control-protocol-tcp/)
+- [Internet Protocol (IP)](https://www.sdxcentral.com/resources/glossary/internet-protocol-ip/)
+- [Transmission Control Protocol (TCP)](https://www.techtarget.com/searchnetworking/definition/TCP)
+- [[Network] TCP/IP 와 TCP/IP 4계층이란?](https://wooono.tistory.com/507)
